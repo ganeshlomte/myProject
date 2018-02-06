@@ -1,4 +1,4 @@
-alert('hello');
+//alert('hello');
 function myFunc(){
 	console.log("test");
 }
